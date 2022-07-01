@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\WindowsFormsApp_arduino_02\bin\Debug\WindowsFormsApp_arduino_02.exe.config
+C:\Users\User\Desktop\WindowsFormsApp_arduino_02\bin\Debug\WindowsFormsApp_arduino_02.exe
+C:\Users\User\Desktop\WindowsFormsApp_arduino_02\bin\Debug\WindowsFormsApp_arduino_02.pdb
+C:\Users\User\Desktop\WindowsFormsApp_arduino_02\obj\Debug\WindowsFormsApp_arduino_02.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\WindowsFormsApp_arduino_02\obj\Debug\WindowsFormsApp_arduino_02.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\WindowsFormsApp_arduino_02\obj\Debug\WindowsFormsApp_arduino_02.Form1.resources
+C:\Users\User\Desktop\WindowsFormsApp_arduino_02\obj\Debug\WindowsFormsApp_arduino_02.Properties.Resources.resources
+C:\Users\User\Desktop\WindowsFormsApp_arduino_02\obj\Debug\WindowsFormsApp_arduino_02.csproj.GenerateResource.cache
+C:\Users\User\Desktop\WindowsFormsApp_arduino_02\obj\Debug\WindowsFormsApp_arduino_02.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\WindowsFormsApp_arduino_02\obj\Debug\WindowsFormsApp_arduino_02.exe
+C:\Users\User\Desktop\WindowsFormsApp_arduino_02\obj\Debug\WindowsFormsApp_arduino_02.pdb
