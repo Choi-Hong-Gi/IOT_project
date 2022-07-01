@@ -1,0 +1,10 @@
+https://apis.data.go.kr/1360000/VilageFcstInfoService_2.0/getUltraSrtNcst?serviceKey=5LMImuDe4KYWVHN%2BC8ZiRhKnnboWUFJjia05xmbVjuw79Gv5upIZD%2BB03TgGptciKHQAYkX5TNgTptdIAqJYPg%3D%3D&pageNo=1&numOfRows=1000&dataType=XML&base_date=20220413&base_time=1400&nx=68&ny=109
+
+
+https://apis.data.go.kr/1360000/VilageFcstInfoService_2.0/getUltraSrtNcst?serviceKey=5LMImuDe4KYWVHN%2BC8ZiRhKnnboWUFJjia05xmbVjuw79Gv5upIZD%2BB03TgGptciKHQAYkX5TNgTptdIAqJYPg%3D%3D&pageNo=1&numOfRows=1000&dataType=JSON&base_date=20220413&base_time=1400&nx=68&ny=109
+
+
+https://apis.data.go.kr/1360000/VilageFcstInfoService_2.0/getUltraSrtFcst?serviceKey=5LMImuDe4KYWVHN%2BC8ZiRhKnnboWUFJjia05xmbVjuw79Gv5upIZD%2BB03TgGptciKHQAYkX5TNgTptdIAqJYPg%3D%3D&pageNo=1&numOfRows=1000&dataType=XML&base_date=20220413&base_time=0630&nx=68&ny=109
+
+
+https://apis.data.go.kr/1360000/VilageFcstInfoService_2.0/getUltraSrtFcst?serviceKey=5LMImuDe4KYWVHN%2BC8ZiRhKnnboWUFJjia05xmbVjuw79Gv5upIZD%2BB03TgGptciKHQAYkX5TNgTptdIAqJYPg%3D%3D&pageNo=1&numOfRows=1000&dataType=JSON&base_date=20220413&base_time=0630&nx=68&ny=109
