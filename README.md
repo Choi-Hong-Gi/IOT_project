@@ -8,7 +8,7 @@ deepLearning\
 AVR ATmega128\
 Mega\
 python\
-bigData\
+bigData
 
 
 + project 01
