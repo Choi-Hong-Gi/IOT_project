@@ -9,6 +9,3 @@ AVR ATmega128\
 Mega\
 python\
 bigData
-
-
-+ project 01
